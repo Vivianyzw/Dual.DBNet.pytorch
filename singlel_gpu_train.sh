@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=0 python tools/train.py --config_file "config/dual_resnet18_FPN_DBhead_polyLR.yaml"
